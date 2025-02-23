@@ -1,4 +1,5 @@
 # Algora
+https://algora01.streamlit.app/
 
 Algora is a web-based tool built with Python, Streamlit, and scikit-learn that simplifies the process of building and comparing machine learning models. Users can upload a dataset (CSV or Excel), define which columns to use, and select a target variable. The app automatically handles data cleaning tasks—such as imputing missing values, encoding categorical features, and scaling numerical ones—using libraries like pandas and scikit-learn.
 
